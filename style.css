@@ -1,0 +1,28 @@
+
+
+*,body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* overflow: hidden; */
+    background-color: #50434A;
+    color:white;
+    font-family: sans-serif;
+
+}
+
+h2{
+
+    margin:10px 0 0 10px;
+}
+
+.best_car {
+    background-color: #FFFF02 !important;
+} 
+
+#make_black {
+    background-color: blueviolet !important;
+}
+
+
+
